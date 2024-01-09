@@ -1,0 +1,4 @@
+my:
+  db:
+    driver: oracle
+    url: JDBC-ORCL
